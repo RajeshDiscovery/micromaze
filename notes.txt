@@ -1,0 +1,105 @@
+
+etpointd =0.000000 , setpointd=0
+pwm= ,0 , speed  = ,0,
+pwm= ,0 , speed  = ,0,
+pwm= ,0 , speed  = ,0,
+Setpointd =0.000000 , setpointd=0
+pwm= ,10 , speed  = ,0,
+pwm= ,10 , speed  = ,0,
+pwm= ,10 , speed  = ,0,
+Setpointd =10.000000 , setpointd=10
+pwm= ,20 , speed  = ,0,
+pwm= ,20 , speed  = ,0,
+pwm= ,20 , speed  = ,0,
+Setpointd =20.000000 , setpointd=20
+pwm= ,30 , speed  = ,0,
+pwm= ,30 , speed  = ,0,
+pwm= ,30 , speed  = ,0,
+Setpointd =30.000000 , setpointd=30
+pwm= ,40 , speed  = ,0,
+pwm= ,40 , speed  = ,0,
+pwm= ,40 , speed  = ,0,
+Setpointd =40.000000 , setpointd=40
+pwm= ,50 , speed  = ,0,
+pwm= ,50 , speed  = ,0,
+pwm= ,50 , speed  = ,0,
+Setpointd =50.000000 , setpointd=50
+pwm= ,60 , speed  = ,0,
+pwm= ,60 , speed  = ,0,
+pwm= ,60 , speed  = ,0,
+Setpointd =60.000000 , setpointd=60
+pwm= ,70 , speed  = ,0,
+pwm= ,70 , speed  = ,0,
+pwm= ,70 , speed  = ,0,
+Setpointd =70.000000 , setpointd=70
+pwm= ,80 , speed  = ,0,
+pwm= ,80 , speed  = ,7,
+pwm= ,80 , speed  = ,13,
+Setpointd =80.000000 , setpointd=80
+pwm= ,90 , speed  = ,14,
+pwm= ,90 , speed  = ,18,
+pwm= ,90 , speed  = ,21,
+Setpointd =90.000000 , setpointd=90
+pwm= ,100 , speed  = ,20,
+pwm= ,100 , speed  = ,23,
+pwm= ,100 , speed  = ,25,
+Setpointd =100.000000 , setpointd=100
+pwm= ,110 , speed  = ,26,
+pwm= ,110 , speed  = ,29,
+pwm= ,110 , speed  = ,29,
+Setpointd =110.000000 , setpointd=110
+pwm= ,120 , speed  = ,30,
+pwm= ,120 , speed  = ,32,
+pwm= ,120 , speed  = ,33,
+Setpointd =120.000000 , setpointd=120
+pwm= ,130 , speed  = ,33,
+pwm= ,130 , speed  = ,35,
+pwm= ,130 , speed  = ,35,
+Setpointd =130.000000 , setpointd=130
+pwm= ,140 , speed  = ,35,
+pwm= ,140 , speed  = ,37,
+pwm= ,140 , speed  = ,38,
+Setpointd =140.000000 , setpointd=140
+pwm= ,150 , speed  = ,39,
+pwm= ,150 , speed  = ,39,
+pwm= ,150 , speed  = ,40,
+Setpointd =150.000000 , setpointd=150
+pwm= ,160 , speed  = ,41,
+pwm= ,160 , speed  = ,42,
+pwm= ,160 , speed  = ,42,
+Setpointd =160.000000 , setpointd=160
+pwm= ,170 , speed  = ,42,
+pwm= ,170 , speed  = ,43,
+pwm= ,170 , speed  = ,44,
+Setpointd =170.000000 , setpointd=170
+pwm= ,180 , speed  = ,44,
+pwm= ,180 , speed  = ,45,
+pwm= ,180 , speed  = ,45,
+Setpointd =180.000000 , setpointd=180
+pwm= ,190 , speed  = ,46,
+pwm= ,190 , speed  = ,47,
+pwm= ,190 , speed  = ,47,
+Setpointd =190.000000 , setpointd=190
+pwm= ,200 , speed  = ,47,
+pwm= ,200 , speed  = ,47,
+pwm= ,200 , speed  = ,48,
+Setpointd =200.000000 , setpointd=200
+pwm= ,210 , speed  = ,48,
+pwm= ,210 , speed  = ,48,
+pwm= ,210 , speed  = ,49,
+Setpointd =210.000000 , setpointd=210
+pwm= ,220 , speed  = ,49,
+pwm= ,220 , speed  = ,50,
+pwm= ,220 , speed  = ,50,
+Setpointd =220.000000 , setpointd=220
+pwm= ,230 , speed  = ,50,
+pwm= ,230 , speed  = ,50,
+pwm= ,230 , speed  = ,50,
+Setpointd =230.000000 , setpointd=230
+pwm= ,240 , speed  = ,51,
+pwm= ,240 , speed  = ,51,
+pwm= ,240 , speed  = ,52,
+Setpointd =240.000000 , setpointd=240
+pwm= ,250 , speed  = ,51,
+pwm= ,250 , speed  = ,52,
+
